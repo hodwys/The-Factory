@@ -1,4 +1,4 @@
-## THE FACTORY
+# TheFactory
 
 # Introduction
 - Add your project logo.
