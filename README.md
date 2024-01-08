@@ -19,26 +19,6 @@ Add a detailed introduction about the project here, everything you want the read
 ## :zap: Usage
 Write about how to use this project.
 
-##  :wrench: Development
-If you want other people to contribute to this project, this is the section, make sure you always add this.
-
-### :notebook: Pre-Requisites
-List all the pre-requisites the system needs to develop this project.
-- A tool
-- B tool
-
-### :exclamation: Guideline
-coding guidelines or other things you want people to follow should follow.
-
-
-##  :page_facing_up: Resources
-Add important resources here
-
 ##  :camera: Gallery
 Pictures of your project.
 
-## :star2: Credit/Acknowledgment
-Credit the authors here.
-
-##  :lock: License
-Add a license here, or a link to it.
