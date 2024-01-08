@@ -19,9 +19,6 @@ Add a detailed introduction about the project here, everything you want the read
 ## :zap: Usage
 Write about how to use this project.
 
-###  :package: Commands
-- Commands to start the project.
-
 ##  :wrench: Development
 If you want other people to contribute to this project, this is the section, make sure you always add this.
 
