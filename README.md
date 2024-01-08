@@ -1,7 +1,7 @@
-# TheFactory
+
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
+# כותרת ראשית: TheFactory
 
 **tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
 
