@@ -30,12 +30,6 @@ List all the pre-requisites the system needs to develop this project.
 - A tool
 - B tool
 
-###  :nut_and_bolt: Development Environment
-Write about setting up the working environment for your project.
-- How to download the project...
-- How to install dependencies...
-
-
 ### :exclamation: Guideline
 coding guidelines or other things you want people to follow should follow.
 
