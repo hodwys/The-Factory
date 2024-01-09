@@ -9,13 +9,8 @@ The player has to help the factory get the product out on time. The player encou
 - Add your project logo.
 
 
-## :ledger: Index
 
-- [Usage](#zap-usage)
-- [Gallery](#camera-gallery)
-
-
-## :zap: Usage
+## :zap: שימוש במשחק
 
 השחקן יוכל לזוז לכל הצדדים תוך שימוש בידיים להזיז חפצים שעשויים לעזור לו להתקדם במשימות.
 ברגע שהשחקן מסיים את המשימות בשלב הספציפי, המוצר מוכן והוא יכול לעבור לשלב הבא.
@@ -23,6 +18,6 @@ The player has to help the factory get the product out on time. The player encou
 לימוד תהליכים- יהיה שלב הדרכה שבו השחקן יצטרך לבצע את כל אחד מהתהליכים שיוצגו בפניו ובכך ילמד לנוע במשחק.
 
 
-##  :camera: Gallery
+##  :camera: תמונות
 Pictures of your project.
 
