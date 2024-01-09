@@ -9,8 +9,6 @@
 - [About](#beginner-about)
 - [Usage](#zap-usage)
 - [Gallery](#camera-gallery)
-- [Credit/Acknowledgment](#star2-creditacknowledgment)
-- [License](#lock-license)
 
 ##  :beginner: About
 
